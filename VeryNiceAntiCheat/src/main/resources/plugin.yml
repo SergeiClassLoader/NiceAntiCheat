@@ -1,0 +1,9 @@
+name: LumosAC
+main: pro.cyrent.load.PluginHook
+api-version: '1.19'
+version: 2.8.7
+softdepend:
+  - ViaVersion
+  - ViaRewind
+depend:
+  - packetevents
